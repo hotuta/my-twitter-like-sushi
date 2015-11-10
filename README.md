@@ -1,4 +1,4 @@
-# like2sushi
+# twitter-like-sushi
 ![icon](icon.png)
 
 ##Thanks!
